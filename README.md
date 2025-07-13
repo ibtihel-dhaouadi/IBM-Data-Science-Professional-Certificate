@@ -33,9 +33,7 @@ This involves:
 ## 💼 Project Structure
 
 ```bash
-├── Labs/   
-├── Final Project/   
-├── screenshots/
+├── Labs/
 └── README.md           
 ```
 
