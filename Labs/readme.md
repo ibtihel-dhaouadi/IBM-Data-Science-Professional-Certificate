@@ -1,10 +1,9 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="50"/>
+  <p align="center">IBM Python Project for Data Science</p>
 </p>
 
 
-<h1 align="center">IBM Python Project for Data Science</h1>
 <p align="center">Analyzing Stock Performance and Building an Interactive Dashboard</p>
 
 
